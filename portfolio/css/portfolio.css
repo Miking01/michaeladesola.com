@@ -1,0 +1,16 @@
+.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: blue;
+}
+
+#navbarNavDropdown{
+    justify-content: end;
+    font-weight: 600;
+}
+
+.navbar-nav {
+    padding: 5px;
+}
+
+li.nav-item {
+    margin-left: 20px;
+}
