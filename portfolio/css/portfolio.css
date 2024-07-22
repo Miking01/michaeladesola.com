@@ -1,5 +1,6 @@
 .navbar.navbar-expand-lg.bg-body-tertiary {
     background-color: blue;
+    margin-bottom: 20px;
 }
 
 #navbarNavDropdown{
@@ -13,4 +14,47 @@
 
 li.nav-item {
     margin-left: 20px;
+}
+
+.header {
+    padding: 80px;
+}
+
+.container {
+    padding: 20px;
+}
+h6.subtitle {
+    color: gray;
+    font-size: 25px;
+}
+
+h6.title {
+    font-weight: bold;
+    font-size: 74px;
+}
+
+.social.mt-4 {
+    margin-top: 1.5rem !important;
+    font-size: 40px;
+}
+
+.socials .social-item {
+    display: inline;
+    margin: 0 5px;
+    width: 40px;
+    height: 40px;
+    color: blue;
+    text-align: center;
+    line-height: 40px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    text-decoration: none;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
 }
