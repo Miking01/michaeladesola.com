@@ -17,11 +17,12 @@ li.nav-item {
 }
 
 .header {
-    padding: 80px;
+    padding: 30px;
 }
 
 .container {
-    padding: 20px;
+    padding: 40px;
+    justify-content: end;
 }
 h6.subtitle {
     color: gray;
@@ -58,3 +59,23 @@ h6.title {
     left: 0;
     z-index: 1030;
 }
+
+.img-holder img {
+    width: 75%;
+    height: 75%;
+    position: relative;
+    margin-left: 80px;
+}
+
+.header .container {
+    display: flex;
+    align-items: center;
+    -webkit-box-align: center;
+    margin-bottom: -70px;
+}
+
+.header#home {
+    border-bottom: 3px solid gray;
+    box-shadow: 2px 3px rgba(0,0,0,0.2);
+    margin-bottom: 0px;
+} 
