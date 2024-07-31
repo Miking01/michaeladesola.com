@@ -199,3 +199,17 @@ a.service:hover {
     background-color: rgba(0, 0, 0, 0.1);
     border-radius: 5px;
 }
+
+h6.mb-3 {
+    text-align: left;
+    padding: 3px;
+    margin-bottom: 10px;
+}
+
+.col-sm-6 {
+    margin-bottom: 8px;
+}
+
+.progress {
+    margin-top: -12px;
+}
