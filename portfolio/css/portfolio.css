@@ -18,6 +18,10 @@ li.nav-item {
     margin-left: 20px;
 }
 
+a.active {
+    text-decoration: underline;
+}
+
 
 /*Freeze Navbar*/
 .fixed-top {
@@ -227,7 +231,7 @@ h6.mb-3 {
     height: auto;
 }
 
-.card-body {
+.card-body.portfolio {
     position: absolute;
     bottom:100%;
     left: 0;
@@ -247,7 +251,7 @@ h5.card-title {
     color: white;
 }
 
-.col:hover .card-body {
+.col:hover .card-body.portfolio {
     visibility: visible;
     bottom: 0;
     height: 100%;
