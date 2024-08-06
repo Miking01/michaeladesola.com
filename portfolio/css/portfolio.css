@@ -322,7 +322,7 @@ a svg {
 
 }
 
-.card-body.blog a {
+.card-body.blog a#read-more {
     color: blue;
     text-decoration: none;
 }
