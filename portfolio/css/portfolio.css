@@ -326,3 +326,7 @@ a svg {
     color: blue;
     text-decoration: none;
 }
+
+section.section {
+    margin-top: 70px;
+}
