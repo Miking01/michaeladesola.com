@@ -1,3 +1,7 @@
+a {
+    text-decoration: none;
+}
+
 /*NAVBAR CSS*/
 
 .navbar.navbar-expand-lg.bg-body-tertiary {
@@ -288,4 +292,14 @@ h5.card-title {
 h6.subtitle-01 {
     color: gray;
     font-size: 14px;
+}
+
+/*Blog Section */
+.card-title.blog {
+    color: black;
+    font-weight: 700;
+}
+
+.card-body.blog {
+    text-align: left;
 }
