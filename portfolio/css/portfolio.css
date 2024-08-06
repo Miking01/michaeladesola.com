@@ -331,3 +331,19 @@ section.section {
     margin-top: 70px;
     padding: 10px;
 }
+
+.div.row.align-items-center {
+    justify-content: center;
+    align-content: center;
+}
+.card.bg-primary {
+    padding: 5px;
+}
+
+.col-sm-9.text-sm-left {
+    text-align: left;
+}
+
+.col-sm-3.text-sm-right {
+    text-align: right;
+}
