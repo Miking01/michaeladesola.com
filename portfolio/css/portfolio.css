@@ -422,7 +422,7 @@ iframe {
 /*footer*/
 .page-footer {
     display: flex;
-    background-color: blue;
+    background-color: #0d6efd;
     color: white !important;
 }
 
