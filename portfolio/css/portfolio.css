@@ -344,7 +344,6 @@ a svg {
 }
 /*contact section form*/
 section#contact.section {
-    display: ruby;
     align-content: center !important;
 }
 
